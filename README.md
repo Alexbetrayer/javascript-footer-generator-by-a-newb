@@ -5,7 +5,13 @@
 Install with the command: 
 
 ```
-npm install --save javascript-footer-generator-by-a-newb
+npm install --save javascript-footer-generator
+```
+
+or
+
+```
+npm i javascript-footer-generator
 ```
 
 Add to the JavaScript application with the following code:
