@@ -11,7 +11,7 @@ npm install --save javascript-footer-generator-by-a-newb
 Add to the JavaScript application with the following code:
 
 ```javascript
-import { footer } from 'javascript-footer-generator-by-a-newb';
+import { footer } from 'javascript-footer-generator';
 
 footer('Some shit');
 ```
