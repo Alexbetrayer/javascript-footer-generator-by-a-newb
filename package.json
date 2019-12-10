@@ -1,6 +1,6 @@
 {
   "name": "javascript-footer-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This module generates dymanic footers for JS apps. Make originally as part of a coding course.",
   "main": "index.js",
   "scripts": {
