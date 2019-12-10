@@ -1,0 +1,25 @@
+{
+  "name": "javascript-footer-generator",
+  "version": "0.1.0",
+  "description": "This module generates dymanic footers for JS apps. Make originally as part of a coding course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexbetrayer/javascript-footer-generator-by-a-newb.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Alexander Bateman <alexbetrayer@hotmail.com> (https://github.com/Alexbetrayer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexbetrayer/javascript-footer-generator-by-a-newb/issues"
+  },
+  "homepage": "https://github.com/Alexbetrayer/javascript-footer-generator-by-a-newb#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
